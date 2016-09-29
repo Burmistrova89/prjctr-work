@@ -1,0 +1,26 @@
+{
+  "name": "prjctr-work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.16.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-compile-handlebars": "^0.6.1",
+    "gulp-csso": "^2.0.0",
+    "gulp-data": "^1.2.1",
+    "gulp-handlebars": "^4.0.0",
+    "gulp-image-optimization": "^0.1.3",
+    "gulp-sass": "^2.3.2",
+    "gulp-svg-sprite": "^1.3.6",
+    "gulp-svg-sprites": "^4.0.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.10"
+  }
+}
